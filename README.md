@@ -7,3 +7,4 @@ Para ejecutar localmente el proyecto se deben tener en cuenta los siguientes asp
  La versión de Java que se requiere es la 17. La variable JAVA_HOME debe estar apuntando al jdk de la versión 17. <br>
  <h3> Ejecutar Proyecto </h3>
  Para ejecutar el proyecto, se debe ejecutar en una consola el comando ./mvnw spring-boot:run <br>
+ El proyecto se ejecutará en el puerto 8080
